@@ -1,0 +1,2 @@
+# Paragliding-Monitoring-System
+This project, Paragliding Monitoring System, deals with the monitoring the para glider, i.e., to find the (x, y, z) coordinates of paraglide in the real time, which to the great extent helps to locate its position, as a result saves the life of those in the paraglide in case of the fatalities and casualties via the rescue team after observing the behaviour of the glide in the real time.
